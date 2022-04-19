@@ -36,6 +36,7 @@ Anglický jazyk
 		Udělat osnovu
 
 	7. Introducing Prague to a foreigner
+		Udělat osnovu
 
 	8. Introducing New York and Washington, D.C.
 		Udělat osnovu
@@ -51,16 +52,16 @@ Anglický jazyk
 		Připravit celé
 
 	12. Position of the Czech Republic in the world
+		Udělat osnovu
 
 	13. American History
 		WWII - Udělat osnovu
-
-	14. Positives and negatives of tourism
 
 	15. British history
 		WWII - Udělat osnovu
 
 	16. American and British political systems
+		Udělat osnovu
 
 	17. School life in English speaking countries
 		Udělat osnovu
@@ -72,36 +73,20 @@ Anglický jazyk
 		Zeptat se
 
 	20. Problems of the Czech Republic
-
-	21. My attitude to culture
+		Udělat osnovu
 
 	22. My attitude to reading
 		Udělat celé
-
-	23. Food, health and life style
-
-	24. Introducing myself and my family
-
-	25. Modern technologies
-
 
 Informatika
 	1. Historie, rozdělení, základní pojmy
 		Projít prezentaci
 		Udělat zápis
 
-	2. Hardware - MB, CPU, HDD, RAM
-
-	3. Hardware - Přenosná média, zobrazovací soustava, periférie
-
-	4. Rozdělení software, OS, licence, autorská práva, instalace
-		Rozepsat si
-
 	5. Malware - druhy, projevy, ochrana
 		Rozepsat si
 
 	6. MS WORD - princip činnosti, instalace, nastavení, stránka, styly, restřík, obsah
-		Ujasnit si instalaci, nastavení
 		Vyzkoušet si styly, obsah rejstřík
 
 	7. MS WORD - Šablony, vkládání(tabulky, vzorce, textové pole)
@@ -109,10 +94,9 @@ Informatika
 
 	8. MS WORD - Hromadná korespondence, grafika
 		Vyzkoušet si korespondenci
-		Zeptat se na grafiku
 
 	9. MS EXCEL - Tabulka, buňka, podmíněné formátování
-		Vyzkoušet si formátování
+		Vyzkoušet si podmíněné formátování
 
 	10. MS EXCEL - Vzorce, funkce, makra
 		Vyzkoušet si funkce, makra
@@ -130,10 +114,9 @@ Informatika
 		Zapsat si
 	
 	15. Grafické editory - Pojmy, vektorová a rastrová grafika, formáty
-		Zeptat se na pojmy a formáty (zjistit které)
+		Zapsat si
 	
 	16. Vektorová grafika (Zoner Callisto) - nastavení, vkládání objektů a křivek, kombinace vektorové a rastrové grafiky, práce s textem, tabulky, import, export, tisk, hladiny, logické operace
-		Domluvit konzultaci se Jiřištěm !!!
 		Zeptat se na nutné znalosti
 		Vyzkoušet si
 	
@@ -147,7 +130,7 @@ Informatika
 		Vyzkoušet si
 	
 	19. HTML - Rozvržení stránek, tabulky, seznamy
-		Zeptat se na rámy
+		Naučit se rámy
 		Vyzkoušet si tabulky, seznamy
 	
 	20. HTML - CSS
@@ -155,11 +138,9 @@ Informatika
 	
 	21. Počítačové sítě - Topologie, prvky, software
 		Zapsat si
-		Zeptat se na software
 	
 	22. Počítačové sítě - Internet, připojení do internetu, protokoly
 		Zapsat si
-		Zeptat se na připojení, protokoly
 	
 	23. Multimédia - Formáty, kodeky, úpravy
 		Zeptat se WTF
