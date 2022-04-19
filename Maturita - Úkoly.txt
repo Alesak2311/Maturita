@@ -83,9 +83,6 @@ Informatika
 		Projít prezentaci
 		Udělat zápis
 
-	5. Malware - druhy, projevy, ochrana
-		Rozepsat si
-
 	6. MS WORD - princip činnosti, instalace, nastavení, stránka, styly, restřík, obsah
 		Vyzkoušet si styly, obsah rejstřík
 
