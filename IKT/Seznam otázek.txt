@@ -1,0 +1,49 @@
+1. Historie, rozdělení, základní pojmy
+
+2. Hardware - MB, CPU, HDD, RAM
+
+3. Hardware - Přenosná média, zobrazovací soustava, periférie
+
+4. Rozdělení software, OS, licence, autorská práva, instalace
+
+5. Malware - druhy, projevy, ochrana
+
+6. MS WORD - princip činnosti, instalace, nastavení, stránka, styly, restřík, obsah
+
+7. MS WORD - Šablony, vkládání(tabulky, vzorce, textové pole)
+
+8. MS WORD - Hromadná korespondence, grafika
+
+9. MS EXCEL - Tabulka, buňka, podmíněné formátování
+
+10. MS EXCEL - Vzorce, funkce, makra
+
+11. MS EXCEL - Grafy, tisk
+
+12. ACCESS - Tabulka (vytvoření, struktura, typy polí)
+
+13. ACCESS - Formuláře (vytvoření, úprava), relace
+
+14. ACCESS - Dotazy (Třídění, filtry, řazení), tiskové sestavy
+
+15. Grafické editory - Pojmy, vektorová a rastrová grafika, formáty
+
+16. Vektorová grafika (Zoner Callisto) - nastavení, vkládání objektů a křivek, kombinace vektorové a rastrové grafiky, práce s textem, tabulky, import, export, tisk, hladiny, logické operace
+
+17. Rastrová grafika - Úprava fotografie, archivace
+
+18. HTML - Stránka, text, odkazy, obrázky
+
+19. HTML - Rozvržení stránek, tabulky, seznamy
+
+20. HTML - CSS
+
+21. Počítačové sítě - Topologie, prvky, software
+
+22. Počítačové sítě - Internet, připojení do internetu, protokoly
+
+23. Multimédia - Formáty, kodeky, úpravy
+
+24. MS POWERPOINT - pravidla, snímky, animace, přechody, vkládání
+
+25. Programování - Pojmy, algoritmus, vývojový diagram, small basic
