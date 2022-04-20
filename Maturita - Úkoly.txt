@@ -134,7 +134,7 @@ Informatika
 		Projít si materiál
 	
 	21. Počítačové sítě - Topologie, prvky, software
-		Zapsat si
+		Doplnit software
 	
 	22. Počítačové sítě - Internet, připojení do internetu, protokoly
 		Zapsat si
