@@ -136,9 +136,6 @@ Informatika
 	21. Počítačové sítě - Topologie, prvky, software
 		Doplnit software
 	
-	22. Počítačové sítě - Internet, připojení do internetu, protokoly
-		Zapsat si
-	
 	23. Multimédia - Formáty, kodeky, úpravy
 		Zeptat se WTF
 	
