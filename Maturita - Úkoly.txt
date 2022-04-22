@@ -94,9 +94,6 @@ Informatika
 	23. Multimédia - Formáty, kodeky, úpravy
 		Zeptat se WTF
 	
-	24. MS POWERPOINT - pravidla, snímky, animace, přechody, vkládání
-		Vyzkoušet si
-	
 	25. Programování - Pojmy, algoritmus, vývojový diagram, small basic
 		Zeptat se na pojmy
 		Zopakovat si diagramy
