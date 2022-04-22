@@ -91,17 +91,6 @@ Informatika
 		Zeptat se na archivaci
 		Vyzkoušet si
 	
-	18. HTML - Stránka, text, odkazy, obrázky
-		Získat materiál
-		Vyzkoušet si
-	
-	19. HTML - Rozvržení stránek, tabulky, seznamy
-		Naučit se rámy
-		Vyzkoušet si tabulky, seznamy
-	
-	20. HTML - CSS
-		Projít si materiál
-	
 	23. Multimédia - Formáty, kodeky, úpravy
 		Zeptat se WTF
 	
