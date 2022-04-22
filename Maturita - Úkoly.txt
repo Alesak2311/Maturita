@@ -83,15 +83,6 @@ Informatika
 		Projít prezentaci
 		Udělat zápis
 	
-	12. ACCESS - Tabulka (vytvoření, struktura, typy polí)
-		Zapsat si
-	
-	13. ACCESS - Formuláře (vytvoření, úprava), relace
-		Zapsat si 
-	
-	14. ACCESS - Dotazy (Třídění, filtry, řazení), tiskové sestavy
-		Zapsat si
-	
 	15. Grafické editory - Pojmy, vektorová a rastrová grafika, formáty
 		Projít prezentace
 	
