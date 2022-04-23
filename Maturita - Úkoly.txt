@@ -79,69 +79,18 @@ Informatika
 	1. Historie, rozdělení, základní pojmy
 		Projít prezentaci
 		Udělat zápis
-
-	6. MS WORD - princip činnosti, instalace, nastavení, stránka, styly, restřík, obsah
-		Vyzkoušet si styly, obsah rejstřík
-
-	7. MS WORD - Šablony, vkládání(tabulky, vzorce, textové pole)
-		Vyzkoušet si šablony
-
-	8. MS WORD - Hromadná korespondence, grafika
-		Vyzkoušet si korespondenci
-
-	9. MS EXCEL - Tabulka, buňka, podmíněné formátování
-		Vyzkoušet si podmíněné formátování
-
-	10. MS EXCEL - Vzorce, funkce, makra
-		Vyzkoušet si funkce, makra
-	
-	11. MS EXCEL - Grafy, tisk
-		Vyzkoušet si
-	
-	12. ACCESS - Tabulka (vytvoření, struktura, typy polí)
-		Zapsat si
-	
-	13. ACCESS - Formuláře (vytvoření, úprava), relace
-		Zapsat si 
-	
-	14. ACCESS - Dotazy (Třídění, filtry, řazení), tiskové sestavy
-		Zapsat si
 	
 	15. Grafické editory - Pojmy, vektorová a rastrová grafika, formáty
-		Zapsat si
-	
-	16. Vektorová grafika (Zoner Callisto) - nastavení, vkládání objektů a křivek, kombinace vektorové a rastrové grafiky, práce s textem, tabulky, import, export, tisk, hladiny, logické operace
-		Zeptat se na nutné znalosti
-		Vyzkoušet si
+		Projít prezentace
 	
 	17. Rastrová grafika - Úprava fotografie, archivace
 		Zeptat se na nutné znalosti
 		Zeptat se na archivaci
 		Vyzkoušet si
 	
-	18. HTML - Stránka, text, odkazy, obrázky
-		Získat materiál
-		Vyzkoušet si
-	
-	19. HTML - Rozvržení stránek, tabulky, seznamy
-		Naučit se rámy
-		Vyzkoušet si tabulky, seznamy
-	
-	20. HTML - CSS
-		Projít si materiál
-	
-	21. Počítačové sítě - Topologie, prvky, software
-		Doplnit software
-	
 	23. Multimédia - Formáty, kodeky, úpravy
 		Zeptat se WTF
-	
-	24. MS POWERPOINT - pravidla, snímky, animace, přechody, vkládání
-		Zapsat si pravidla
-		Zeptat se na rozsah
-		Vyzkoušet si
 	
 	25. Programování - Pojmy, algoritmus, vývojový diagram, small basic
 		Zeptat se na pojmy
 		Zopakovat si diagramy
-		Vyzkoušet small basic
