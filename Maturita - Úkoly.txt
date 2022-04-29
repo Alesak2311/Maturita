@@ -104,15 +104,3 @@ Anglický jazyk
 
 	22. My attitude to reading
 		Udělat celé
-
-Informatika
-	1. Historie, rozdělení, základní pojmy
-		Projít prezentaci
-		Udělat zápis
-	
-	15. Grafické editory - Pojmy, vektorová a rastrová grafika, formáty
-		Projít prezentace
-	
-	23. Multimédia - Formáty, kodeky, úpravy
-		Projít prezentace
-		Projít audacity
