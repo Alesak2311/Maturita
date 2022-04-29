@@ -113,14 +113,6 @@ Informatika
 	15. Grafické editory - Pojmy, vektorová a rastrová grafika, formáty
 		Projít prezentace
 	
-	17. Rastrová grafika - Úprava fotografie, archivace
-		Zeptat se na nutné znalosti
-		Zeptat se na archivaci
-		Vyzkoušet si
-	
 	23. Multimédia - Formáty, kodeky, úpravy
-		Zeptat se WTF
-	
-	25. Programování - Pojmy, algoritmus, vývojový diagram, small basic
-		Zeptat se na pojmy
-		Zopakovat si diagramy
+		Projít prezentace
+		Projít audacity
